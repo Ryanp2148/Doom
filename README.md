@@ -1,2 +1,2 @@
 # Doom
-DDos:174.84.124.150
+Key word:IP address
