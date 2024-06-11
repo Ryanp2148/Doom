@@ -1,2 +1,2 @@
 # Doom
-DDos word:172.30.165.3
+DDos word:174.84.124.150
